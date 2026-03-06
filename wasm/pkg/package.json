@@ -1,0 +1,15 @@
+{
+  "name": "theme-toggle",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "theme_toggle_bg.wasm",
+    "theme_toggle.js",
+    "theme_toggle.d.ts"
+  ],
+  "main": "theme_toggle.js",
+  "types": "theme_toggle.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
