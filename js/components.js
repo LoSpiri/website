@@ -3,8 +3,8 @@ class SiteHeader extends HTMLElement {
     const page = this.getAttribute("page") || "";
     const links = [
       { href: "index.html", label: "Home", id: "home" },
-      { href: "projects.html", label: "Projects", id: "projects" },
-      { href: "articles.html", label: "Articles", id: "articles" },
+      // { href: "projects.html", label: "Projects", id: "projects" },
+      // { href: "articles.html", label: "Articles", id: "articles" },
       { href: "docs/CV_Lorenzo_Spiridioni.pdf", label: "Resume", id: "resume", external: true },
     ];
 
