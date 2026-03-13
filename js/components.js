@@ -13,7 +13,7 @@ function updateToggleIcon() {
 function jsToggleTheme() {
   const next = currentTheme() === "dark" ? "light" : "dark";
   document.documentElement.setAttribute("data-theme", next);
-  try { localStorage.setItem("theme", next); } catch (_) {}
+  try { localStorage.setItem("theme", next); } catch (_) { }
   updateToggleIcon();
 }
 
@@ -38,7 +38,7 @@ function onToggleClick() {
         wasmToggle = mod.toggle_theme;
       });
     })
-    .catch(function () {});
+    .catch(function () { });
 })();
 
 class SiteHeader extends HTMLElement {
@@ -48,6 +48,7 @@ class SiteHeader extends HTMLElement {
       { href: "index.html", label: "Home", id: "home" },
       // { href: "projects.html", label: "Projects", id: "projects" },
       // { href: "articles.html", label: "Articles", id: "articles" },
+      { href: "miscellaneous.html", label: "Miscellaneous", id: "miscellaneous" },
       { href: "docs/CV_Lorenzo_Spiridioni.pdf", label: "Resume", id: "resume", external: true },
     ];
 

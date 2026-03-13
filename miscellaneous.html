@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miscellaneous — Lorenzo Spiridioni</title>
+    <meta name="description" content="Public speaking, reading, and other interests by Lorenzo Spiridioni.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Inter:wght@400;500&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script>
+        (function () {
+            var t = localStorage.getItem('theme');
+            if (!t) t = matchMedia('(prefers-color-scheme:dark)').matches ? 'dark' : 'light';
+            document.documentElement.setAttribute('data-theme', t);
+        })();
+    </script>
+</head>
+
+<body>
+    <site-header page="miscellaneous"></site-header>
+
+    <main>
+        <section id="speaking" class="section">
+            <h2>Public Speaking</h2>
+            <p class="section-intro">Talks and presentations at meetups and conferences.</p>
+
+            <article class="talk-item">
+                <time class="talk-date" datetime="2026-04-18">April 2026</time>
+                <h3><a href="#">DevBox: Nix Made Easy</a></h3>
+                <div class="talk-meta">
+                    <span class="talk-event">Conference: DevFest Pisa</span>
+                    <span class="talk-location">Pisa, Italy</span>
+                </div>
+            </article>
+
+            <article class="talk-item">
+                <time class="talk-date" datetime="2025-07-07">July 2025</time>
+                <h3><a href="#">DevBox: Nix Made Easy</a></h3>
+                <div class="talk-meta">
+                    <span class="talk-event">Meetup: Pisa.Dev</span>
+                    <span class="talk-location">Pisa, Italy</span>
+                </div>
+            </article>
+        </section>
+
+        <section id="reading" class="section">
+            <h2>Reading</h2>
+            <p class="section-intro">Books I'm currently reading, sometimes I also update my <a
+                    href="https://www.goodreads.com/user/show/178274077-lorenzo-spiridioni">Goodreads profile</a>.</p>
+
+            <article class="card">
+                <div class="card-header">
+                    <span class="card-label">Currently Reading</span>
+                </div>
+                <h3>LLMOps: Managing Large Language Models in Production</h3>
+                <p>Abi Aryan</p>
+            </article>
+
+            <article class="card">
+                <div class="card-header">
+                    <span class="card-label">Currently Reading</span>
+                </div>
+                <h3>Myst, Might, Mayhem</h3>
+                <p>한중월야</p>
+            </article>
+
+            <article class="card">
+                <div class="card-header">
+                    <span class="card-label">Currently Reading</span>
+                </div>
+                <h3>The Other End of the Leash</h3>
+                <p>Patricia McConnell</p>
+            </article>
+        </section>
+    </main>
+
+    <site-footer></site-footer>
+    <script src="js/components.js"></script>
+</body>
+
+</html>
