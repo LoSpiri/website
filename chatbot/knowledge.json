@@ -1,0 +1,492 @@
+[
+  {
+    "source": "articles.html",
+    "page": "Articles",
+    "section": "Articles",
+    "text": "Articles Thoughts on software engineering, architecture, and the craft of building things. March 2026 The title of your first article A brief summary or excerpt from the article. Keep it to one or two sentences to give readers an idea of what to expect. January 2026 The title of your second article A brief summary or excerpt from the article. Keep it to one or two sentences to give readers an idea of what to expect. November 2025 The title of your third article A brief summary or excerpt from the article. Keep it to one or two sentences to give readers an idea of what to expect. August 2025 The title of your fourth article A brief summary or excerpt from the article. Keep it to one or two sentences to give readers an idea of what to expect.",
+    "id": "chunk_0"
+  },
+  {
+    "source": "articles.html",
+    "page": "Articles",
+    "section": "The title of your first article",
+    "text": "March 2026 The title of your first article A brief summary or excerpt from the article. Keep it to one or two sentences to give readers an idea of what to expect.",
+    "id": "chunk_1"
+  },
+  {
+    "source": "articles.html",
+    "page": "Articles",
+    "section": "The title of your second article",
+    "text": "January 2026 The title of your second article A brief summary or excerpt from the article. Keep it to one or two sentences to give readers an idea of what to expect.",
+    "id": "chunk_2"
+  },
+  {
+    "source": "articles.html",
+    "page": "Articles",
+    "section": "The title of your third article",
+    "text": "November 2025 The title of your third article A brief summary or excerpt from the article. Keep it to one or two sentences to give readers an idea of what to expect.",
+    "id": "chunk_3"
+  },
+  {
+    "source": "articles.html",
+    "page": "Articles",
+    "section": "The title of your fourth article",
+    "text": "August 2025 The title of your fourth article A brief summary or excerpt from the article. Keep it to one or two sentences to give readers an idea of what to expect.",
+    "id": "chunk_4"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "About me",
+    "text": "About me Lorenzo Spiridioni Linux, K8s, and ML Pisa, Italy Cloud Backend Engineer focused on Kubernetes-based distributed systems, multi-cloud infrastructure (AWS, Azure), and LLM/ML pipeline deployment. Currently building distributed backends at RoxPay, integrating LangChain-based ML services and RAG pipelines on Kubernetes. Previously a Cloud Engineer at CCH Tagetik (Wolters Kluwer), authoring Terraform and Helm modules for multi-region AWS/Azure deployments. Pursuing a Master's in Computer Science (Big Data Technologies) at the University of Pisa and Freie Universität Berlin. Research includes a RAG-based clinical chatbot for Charité Hospital and anomaly detection with Prophet on AWS EKS.",
+    "id": "chunk_5"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Experience",
+    "text": "Experience RoxPay Jan 2025 — Present Software Engineer Designed and developed an enterprise distributed backend in C# .NET 10 on Kubernetes, integrated with RabbitMQ, Redis, and Elasticsearch. Built cloud-native microservices using Python, FastAPI, and PostgreSQL. CCH Tagetik — Wolters Kluwer Mar 2023 — Jan 2025 Cloud Engineer Developed reusable Terraform and Helm modules for multi-region AWS and Azure, deployed via multi-stage Jenkins pipelines. Provisioned large-scale infrastructures using Chef and Ansible. Containerized and deployed Python services with Docker, Kubernetes, and CI/CD pipelines. Amazon May 2022 — Sep 2022 IT Support Engineer Intern Built a Python-based network discovery system covering 15,000+ devices, reducing manual documentation effort by 95%.",
+    "id": "chunk_6"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Software Engineer",
+    "text": "RoxPay Jan 2025 — Present Software Engineer Designed and developed an enterprise distributed backend in C# .NET 10 on Kubernetes, integrated with RabbitMQ, Redis, and Elasticsearch. Built cloud-native microservices using Python, FastAPI, and PostgreSQL.",
+    "id": "chunk_7"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Cloud Engineer",
+    "text": "CCH Tagetik — Wolters Kluwer Mar 2023 — Jan 2025 Cloud Engineer Developed reusable Terraform and Helm modules for multi-region AWS and Azure, deployed via multi-stage Jenkins pipelines. Provisioned large-scale infrastructures using Chef and Ansible. Containerized and deployed Python services with Docker, Kubernetes, and CI/CD pipelines.",
+    "id": "chunk_8"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "IT Support Engineer Intern",
+    "text": "Amazon May 2022 — Sep 2022 IT Support Engineer Intern Built a Python-based network discovery system covering 15,000+ devices, reducing manual documentation effort by 95%.",
+    "id": "chunk_9"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Education",
+    "text": "Education M.Sc. Computer Science — Big Data Technologies Sep 2023 — Present University of Pisa Research focus on machine learning, distributed systems and search algorithms. GPA: 29.5/30. M.Sc. Computer Science — Erasmus+ Exchange Sep 2025 — Mar 2026 Freie Universität Berlin Exchange semester with a focus on machine learning, creating a RAG-based clinical chatbot for Charité Hospital using LangChain/LangGraph, with an incoming publication. M.Sc. Computer Science — Summer School Jul 2025 — Aug 2025 Aarhus University Summer school with a focus on distributed systems and C++, course taken by Bjarne Stroustrup. B.Sc. Computer Science Sep 2019 — Feb 2023 University of Pisa Graduated in 2 academic years, or 29 months. Thesis: \"Automated Root Cause Analysis in Microservice Architectures\".",
+    "id": "chunk_10"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "University of Pisa",
+    "text": "M.Sc. Computer Science — Big Data Technologies Sep 2023 — Present University of Pisa Research focus on machine learning, distributed systems and search algorithms. GPA: 29.5/30.",
+    "id": "chunk_11"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Freie Universität Berlin",
+    "text": "M.Sc. Computer Science — Erasmus+ Exchange Sep 2025 — Mar 2026 Freie Universität Berlin Exchange semester with a focus on machine learning, creating a RAG-based clinical chatbot for Charité Hospital using LangChain/LangGraph, with an incoming publication.",
+    "id": "chunk_12"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Aarhus University",
+    "text": "M.Sc. Computer Science — Summer School Jul 2025 — Aug 2025 Aarhus University Summer school with a focus on distributed systems and C++, course taken by Bjarne Stroustrup.",
+    "id": "chunk_13"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "University of Pisa",
+    "text": "B.Sc. Computer Science Sep 2019 — Feb 2023 University of Pisa Graduated in 2 academic years, or 29 months. Thesis: \"Automated Root Cause Analysis in Microservice Architectures\".",
+    "id": "chunk_14"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Skills & Technologies",
+    "text": "Skills & Technologies Languages Python, C#, Rust Cloud & DevOps AWS, Azure, Terraform, Ansible, Chef, Jenkins, ArgoCD, Helm Containers & Orchestration Docker, Kubernetes Databases & Messaging PostgreSQL, MySQL, Redis, RabbitMQ, Elasticsearch Observability & Monitoring Prometheus, Grafana, Istio",
+    "id": "chunk_15"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Languages",
+    "text": "Languages Python, C#, Rust",
+    "id": "chunk_16"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Cloud & DevOps",
+    "text": "Cloud & DevOps AWS, Azure, Terraform, Ansible, Chef, Jenkins, ArgoCD, Helm",
+    "id": "chunk_17"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Containers & Orchestration",
+    "text": "Containers & Orchestration Docker, Kubernetes",
+    "id": "chunk_18"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Databases & Messaging",
+    "text": "Databases & Messaging PostgreSQL, MySQL, Redis, RabbitMQ, Elasticsearch",
+    "id": "chunk_19"
+  },
+  {
+    "source": "index.html",
+    "page": "Lorenzo Spiridioni",
+    "section": "Observability & Monitoring",
+    "text": "Observability & Monitoring Prometheus, Grafana, Istio",
+    "id": "chunk_20"
+  },
+  {
+    "source": "miscellaneous.html",
+    "page": "Miscellaneous",
+    "section": "Public Speaking",
+    "text": "Public Speaking Talks and presentations at meetups and conferences. April 2026 DevBox: Nix Made Easy Conference: DevFest Pisa Pisa, Italy July 2025 DevBox: Nix Made Easy Meetup: Pisa.Dev Pisa, Italy",
+    "id": "chunk_21"
+  },
+  {
+    "source": "miscellaneous.html",
+    "page": "Miscellaneous",
+    "section": "DevBox: Nix Made Easy",
+    "text": "April 2026 DevBox: Nix Made Easy Conference: DevFest Pisa Pisa, Italy",
+    "id": "chunk_22"
+  },
+  {
+    "source": "miscellaneous.html",
+    "page": "Miscellaneous",
+    "section": "DevBox: Nix Made Easy",
+    "text": "July 2025 DevBox: Nix Made Easy Meetup: Pisa.Dev Pisa, Italy",
+    "id": "chunk_23"
+  },
+  {
+    "source": "miscellaneous.html",
+    "page": "Miscellaneous",
+    "section": "Reading",
+    "text": "Reading Books I'm currently reading, sometimes I also update my Goodreads profile. Currently Reading LLMOps: Managing Large Language Models in Production Abi Aryan Currently Reading Myst, Might, Mayhem 한중월야 Currently Reading The Other End of the Leash Patricia McConnell",
+    "id": "chunk_24"
+  },
+  {
+    "source": "miscellaneous.html",
+    "page": "Miscellaneous",
+    "section": "LLMOps: Managing Large Language Models in Production",
+    "text": "Currently Reading LLMOps: Managing Large Language Models in Production Abi Aryan",
+    "id": "chunk_25"
+  },
+  {
+    "source": "miscellaneous.html",
+    "page": "Miscellaneous",
+    "section": "Myst, Might, Mayhem",
+    "text": "Currently Reading Myst, Might, Mayhem 한중월야",
+    "id": "chunk_26"
+  },
+  {
+    "source": "miscellaneous.html",
+    "page": "Miscellaneous",
+    "section": "The Other End of the Leash",
+    "text": "Currently Reading The Other End of the Leash Patricia McConnell",
+    "id": "chunk_27"
+  },
+  {
+    "source": "projects.html",
+    "page": "Projects",
+    "section": "Projects",
+    "text": "Projects A selection of things I've built, contributed to, or am currently working on. Project One Open Source A brief, compelling title for your first project Describe what this project does, the technologies used, and the problem it solves. Keep it concise but informative enough to spark interest. Project Two Web App A brief, compelling title for your second project Describe what this project does, the technologies used, and the problem it solves. Keep it concise but informative enough to spark interest. Project Three Tool A brief, compelling title for your third project Describe what this project does, the technologies used, and the problem it solves. Keep it concise but informative enough to spark interest.",
+    "id": "chunk_28"
+  },
+  {
+    "source": "projects.html",
+    "page": "Projects",
+    "section": "A brief, compelling title for your first project",
+    "text": "Project One Open Source A brief, compelling title for your first project Describe what this project does, the technologies used, and the problem it solves. Keep it concise but informative enough to spark interest.",
+    "id": "chunk_29"
+  },
+  {
+    "source": "projects.html",
+    "page": "Projects",
+    "section": "A brief, compelling title for your second project",
+    "text": "Project Two Web App A brief, compelling title for your second project Describe what this project does, the technologies used, and the problem it solves. Keep it concise but informative enough to spark interest.",
+    "id": "chunk_30"
+  },
+  {
+    "source": "projects.html",
+    "page": "Projects",
+    "section": "A brief, compelling title for your third project",
+    "text": "Project Three Tool A brief, compelling title for your third project Describe what this project does, the technologies used, and the problem it solves. Keep it concise but informative enough to spark interest.",
+    "id": "chunk_31"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "AdventOfCodeKotlin",
+    "text": "GitHub project: AdventOfCodeKotlin. Primary language: Kotlin. Topics: aoc-2021-in-kotlin. Stars: 0, Forks: 0. Created: December 2021. Last updated: December 2021. URL: https://github.com/LoSpiri/AdventOfCodeKotlin",
+    "id": "chunk_32"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "AdventOfCodeKotlin README",
+    "text": "Advent Of Code 2021\n\n<div align=\"center\">\n<img hight=\"300\" width=\"700\" alt=\"GIF\" align=\"center\" src=\"https://c.tenor.com/2uoTk06PaHYAAAAC/santa-merry.gif\">\n</div>\n\n</br>\n</br>\n\nUsing Advent of Code 2021 to learn Kotlin.",
+    "id": "chunk_33"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "appero",
+    "text": "GitHub project: appero. Primary language: Kotlin. Stars: 0, Forks: 0. Created: October 2022. Last updated: October 2022. URL: https://github.com/LoSpiri/appero",
+    "id": "chunk_34"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "appero README",
+    "text": "APPERÓ Apperó is an app that helps its users annotate tasks they have to do, with a particular focus on letting them do it as fast as possible, providing the possibility to attach various types of content and synchronizing with other applications. Github Repo Features - Saving content rich tasks - Recording audio attachments - Setting up notifications - Setting up calendar events - Soon to be: Adding tasks to Notion databases Navigation <br></br> The app is composed of 2 main composables, todolist and addedittodo, inflated from MainActivity.kt, using Jetpack Compose way of using the navigation component, meaning without a navigation graph. A NavController is created inside the theme, from there the NavHost inflates the composables and passes them the NavController method they need to navigate, as shown in the image above. <br></br> I separated addtodo and edittodo, although they are actually the same composable, because they are reached using different NavController.navigate strings. Except for this, from both going back to todolist is done using the NavController.popBackStack method. MVVM (Ignore software design conventions) <br></br> Apperó follow the MVVM architecture, using the 2 composables as views, assigning them a viewmodel each and connecting the viewmodels to a database. To avoid if",
+    "id": "chunk_35"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "appero README",
+    "text": "to todolist is done using the NavController.popBackStack method. MVVM (Ignore software design conventions) <br></br> Apperó follow the MVVM architecture, using the 2 composables as views, assigning them a viewmodel each and connecting the viewmodels to a database. To avoid if conditions here and there and instead group all the logic together, it uses events, sent and received through channels placed in the viewmodels and accessed from their res",
+    "id": "chunk_36"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "binance-trading-bot",
+    "text": "GitHub project: binance-trading-bot. Primary language: JavaScript. Stars: 1, Forks: 0. Created: September 2021. Last updated: October 2021. URL: https://github.com/LoSpiri/binance-trading-bot",
+    "id": "chunk_37"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "binance-trading-bot README",
+    "text": "Binance Trading Bot\n \nThis is my first personal project and it's intended as a tool for me and my friends to automatically analize and subsequently buy and sell cryptos using the indicators and strategies we are already using to manage our Binance wallets.\n\nREQUIREMENTS:\n Binance API\n Flask (future refactoring with Django)\n Numpy\n TA-Lib\n Backtrader (future addition)\n\nNEXT OBJECTIVE:\n Experiment with TA-Lib indicators\n Implement a backtracking algorithm to test the app on last week data \n Improve the documentation and comments\n\nTO-DO LIST:\n Add and experiment with Backtrader\n Implement an optional grid trading strategy\n\nIf you would like to test it just replace APIKEY and APISECRET in \"config.py\" with your private Binance keys.\nAny PR is welcomed.",
+    "id": "chunk_38"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "Cisco-Data-Retrieve-Automation",
+    "text": "GitHub project: Cisco-Data-Retrieve-Automation. Primary language: Python. Stars: 0, Forks: 0. Created: July 2022. Last updated: August 2022. URL: https://github.com/LoSpiri/Cisco-Data-Retrieve-Automation",
+    "id": "chunk_39"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "Cisco-Data-Retrieve-Automation README",
+    "text": "Cisco-Data-Retrieve-Automation\n\n<div align=\"center\">\n<img hight=\"300\" width=\"700\" alt=\"GIF\" align=\"center\" src=\"https://github.com/LoSpiri/Cisco-Data-Retrieve-Automation/blob/master/Servers%20Destroyers.gif\">\n</div>",
+    "id": "chunk_40"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "CompetitiveProgramming",
+    "text": "GitHub project: CompetitiveProgramming. Primary language: Rust. Stars: 0, Forks: 0. Created: September 2023. Last updated: September 2023. URL: https://github.com/LoSpiri/CompetitiveProgramming",
+    "id": "chunk_41"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "CompetitiveProgramming README",
+    "text": "CompetitiveProgramming\n\n<div align=\"center\">\n<img hight=\"300\" width=\"700\" alt=\"GIF\" align=\"center\" src=\"https://github.com/LoSpiri/CompetitiveProgramming/blob/main/print%20Hello%20World.gif\">\n</div>",
+    "id": "chunk_42"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "computational-mathematics",
+    "text": "GitHub project: computational-mathematics. Primary language: Jupyter Notebook. Stars: 0, Forks: 0. Created: May 2024. Last updated: July 2025. URL: https://github.com/LoSpiri/computational-mathematics",
+    "id": "chunk_43"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "connect-four",
+    "text": "GitHub project: connect-four. Primary language: HTML. Stars: 0, Forks: 0. Created: December 2021. Last updated: December 2021. URL: https://github.com/LoSpiri/connect-four",
+    "id": "chunk_44"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "connect-four README",
+    "text": "Connect Four\n\n<div align=\"center\">\n<img hight=\"300\" width=\"700\" alt=\"GIF\" align=\"center\" src=\"https://wp.usatodaysports.com/wp-content/uploads/sites/90/2016/01/rondo.gif\">\n</div>\n\n</br>\n</br>\n\nAfter trying Kotlin for the first time during Advent of Code 2021 I decided to try and make a small project during the christmas holidays, choosing one of JetBrains' suggested projects.\\\nPosting it just to be grossed out by this code in 1 year from now.",
+    "id": "chunk_45"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "DataMining",
+    "text": "GitHub project: DataMining. Primary language: Jupyter Notebook. Stars: 0, Forks: 1. Created: October 2023. Last updated: October 2023. URL: https://github.com/LoSpiri/DataMining",
+    "id": "chunk_46"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "DataMining README",
+    "text": "Data Mining: Master's Degree Exam\nBy Angelo Nardone and Lorenzo Spiridioni\n\n<div align=\"center\">\n<img hight=\"300\" width=\"700\" alt=\"GIF\" align=\"center\" src=\"https://github.com/LoSpiri/DataMining/blob/master/simpsonmining.gif\">\n</div>\n\n</br>\n</br>\n\nThe project involved conducting as a team data analysis using Python and data mining tools. The dataset comprised three CSV files:\n- incidents.csv, \n- povertyByStateYear.csv,\n- yearstatedistricthouse.csv.\n\nThe incidents dataset contained information on gun incidents in the USA, including various variables such as date, location, participant details, and incident characteristics. The second file provided poverty percentages for each state and year, while the third file details winners of congressional elections.\n\nTasks:\n- Task 1: Data Understanding and Preparation\n    - Task 1.1: Data Understanding \\\nExplore incidents dataset using analytical tools, assessing data quality, variable distributions, and pairwise correlations.\n    - Task 1.2: Data Preparation \\\nExtract new features describing incidents, such as ratios of males, injured/killed people, and other indicators.\nConduct transformations, handle missing values, outliers, and assess data quality.\n\n- Task 2: Clustering Analysis \\\nExplore dataset using clustering techniques.\nSubtasks include K-means analysis, density-based clustering, and hierarchical clustering.\nEvaluate clustering results and explore alternative techniques.\n\n- Task 3: Predictive Analysis \\\nPredict the binary label ",
+    "id": "chunk_47"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "devbox_talk",
+    "text": "GitHub project: devbox_talk. Primary language: Rust. Stars: 0, Forks: 0. Created: July 2025. Last updated: July 2025. URL: https://github.com/LoSpiri/devbox_talk",
+    "id": "chunk_48"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "diffrax",
+    "text": "GitHub project: diffrax. Description: Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. https://docs.kidger.site/diffrax/. Stars: 0, Forks: 0. Created: February 2026. Last updated: February 2026. URL: https://github.com/LoSpiri/diffrax",
+    "id": "chunk_49"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "diffrax README",
+    "text": "<h1 align='center'>Diffrax</h1>\n<h2 align='center'>Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable.</h2>\n\nDiffrax is a JAX-based library providing numerical differential equation solvers.\n\nFeatures include:\n\n- ODE/SDE/CDE (ordinary/stochastic/controlled) solvers;\n- lots of different solvers (including Tsit5, Dopri8, symplectic solvers, implicit solvers);\n- vmappable everything (including the region of integration);\n- using a PyTree as the state;\n- dense solutions;\n- multiple adjoint methods for backpropagation;\n- support for neural differential equations.\n\nFrom a technical point of view, the internal structure of the library is pretty cool -- all kinds of equations (ODEs, SDEs, CDEs) are solved in a unified way (rather than being treated separately), producing a small tightly-written library.\n\nInstallation\n\npip install diffrax\n\nRequires Python 3.10+.\n\nDocumentation\n\nAvailable at https://docs.kidger.site/diffrax.\n\nQuick example\n\npython\nfrom diffrax import diffeqsolve, ODETerm, Dopri5\nimport jax.numpy as jnp\n\ndef f(t, y, args):\n    return -y\n\nterm = ODETerm(f)\nsolver = Dopri5()\ny0 = jnp.array([2., 3.])\nsolution = diffeqsolve(term, solver, t0=0, t1=1, dt0=0.1, y0=y0)\n\nHere, Dopri5 refers to the Dormand--Prince 5(4) numerical differential equation solver, which is a standard choice for many problems.\n\nCitation\n\nIf you found this library useful in academic research, please cite: (arXiv link)\n\nbibtex\n@phdthesis{kidger2021on,\n    title={{O}n {N}eur",
+    "id": "chunk_50"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "hyper-k-mers_seminar",
+    "text": "GitHub project: hyper-k-mers_seminar. Primary language: TeX. Stars: 0, Forks: 0. Created: May 2025. Last updated: May 2025. URL: https://github.com/LoSpiri/hyper-k-mers_seminar",
+    "id": "chunk_51"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "hyper-k-mers_seminar README",
+    "text": "Hyper-K-Mers: Efficient streaming k-mers representation\nBioinformatics seminar\n\n<div align=\"center\">\n<img hight=\"300\" width=\"700\" alt=\"GIF\" align=\"center\" src=\"https://github.com/LoSpiri/hyper-k-mersseminar/blob/main/latexpresentation/newfigures/bioinfomeme.jpeg\">\n</div>",
+    "id": "chunk_52"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "jax-neural-odes",
+    "text": "GitHub project: jax-neural-odes. Primary language: Jupyter Notebook. Stars: 0, Forks: 0. Created: November 2025. Last updated: February 2026. URL: https://github.com/LoSpiri/jax-neural-odes",
+    "id": "chunk_53"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "jax-neural-odes README",
+    "text": "GRU-RNN & GRU-ODE-Bayes & Continuous Normalizing Flows\n\nMachine Learning Project for Life Sciences  \nAuthors: Lorenzo Spiridioni & Maxim Hirschmann  \nDate: February 10, 2025\n\nOverview\nThis repository contains implementations and experiments exploring neural ODE-based architectures for handling continuous-time data and generative modeling. The project focuses on two main methodologies: GRU-ODE-Bayes for irregularly sampled time series and Continuous Normalizing Flows (CNF) for density estimation and sampling.\n\nKey Concepts\n\nGRU-ODE-Bayes\nA hybrid architecture combining continuous-time evolution with discrete updates, designed to handle:\n- Irregular timestamps naturally via continuous modeling.\n- Asynchronous, feature-level missingness by updating only when data arrives.\n- Uncertainty evolution which reduces upon observation.\n\nMechanism:\n1.  Predictor (Continuous): Evolves a latent hidden state in continuous time using an ODE-inspired GRU.\n2.  Corrector (Discrete): Performs a Bayesian-style update of the hidden state when an observation arrives.\n\nContinuous Normalizing Flows (CNF)\nA generative framework that transforms a simple base distribution (e.g., Gaussian) into a complex target data distribution via an invertible ODE.\n- Flowing to Target: The probability mass is reshaped over time by integrating an ODE parameterized by a neural network.\n- Applications: Generative modeling, exact log-likelihood evaluation, and sampling.\n\nImplementations & Results\n\nGRU-ODE-Bayes Experiments",
+    "id": "chunk_54"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "Kotlin-Android-Learning",
+    "text": "GitHub project: Kotlin-Android-Learning. Primary language: Kotlin. Stars: 0, Forks: 0. Created: August 2022. Last updated: August 2022. URL: https://github.com/LoSpiri/Kotlin-Android-Learning",
+    "id": "chunk_55"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "LearnGoWithTests",
+    "text": "GitHub project: LearnGoWithTests. Primary language: Go. Stars: 0, Forks: 0. Created: March 2023. Last updated: March 2023. URL: https://github.com/LoSpiri/LearnGoWithTests",
+    "id": "chunk_56"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "LoSpiri",
+    "text": "GitHub project: LoSpiri. Stars: 0, Forks: 0. Created: December 2021. Last updated: December 2021. URL: https://github.com/LoSpiri/LoSpiri",
+    "id": "chunk_57"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "LoSpiri README",
+    "text": "Hi 👋\n\n<div align=\"center\">\n<img hight=\"300\" width=\"700\" alt=\"GIF\" align=\"center\" src=\"https://i.pinimg.com/originals/a2/92/c6/a292c6b93954f158bbeb65ecf71753db.gif\">\n</div>\n\n<!--\nspyrox16/spyrox16 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.\n\nHere are some ideas to get you started:\n\n- 🔭 I’m currently working on ...\n- 🌱 I’m currently learning ...\n- 👯 I’m looking to collaborate on ...\n- 🤔 I’m looking for help with ...\n- 💬 Ask me about ...\n- 📫 How to reach me: ...\n- 😄 Pronouns: ...\n- ⚡ Fun fact: ...\n-->",
+    "id": "chunk_58"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "minikube-dind",
+    "text": "GitHub project: minikube-dind. Primary language: Dockerfile. Stars: 0, Forks: 0. Created: December 2024. Last updated: December 2024. URL: https://github.com/LoSpiri/minikube-dind",
+    "id": "chunk_59"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "Server-Clients-CS-LAB2",
+    "text": "GitHub project: Server-Clients-CS-LAB2. Primary language: C. Stars: 0, Forks: 0. Created: June 2022. Last updated: July 2022. URL: https://github.com/LoSpiri/Server-Clients-CS-LAB2",
+    "id": "chunk_60"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "Server-Clients-CS-LAB2 README",
+    "text": "Project for the exam Programming Laboratory 2 <div align=\"center\"> <img hight=\"300\" width=\"700\" alt=\"GIF\" align=\"center\" src=\"https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/climit%2Cfauto%2Cflprogressive%2Cq66%2Cw880/https://media2.giphy.com/media/fnD9cHHIrYRYk/giphy.gif\"> </div> (Please forgive me professor if the gif is inappropriate.) </br> </br> The project is about creating a C script (farm.c) that reads from the command line the names of multiple binary files and writes the names on a shared buffer. It then launches multiple threads that read from that shared buffer, open the files and compute the numbers written on them.<br /> In the meantime a Python script (collector.py) is used as a server to receive via socket the results of the threads' computations and print those on stdout. <br /> <br /> Implementation choices:<br /> The C threads and the shared buffer are managed using semaphores and locks, with a classical consumer/producer mechanism.<br /> They send via socket a string and beforehand an integer to communicate the string's length.<br /> The Python script uses the socketserver library to manage the socket connection and ThreadingMixin to create multiple threads that parallel compute the socket requests. Used this setup as it was the easiest in my opinion to do so.<br /> The server shutdown is done by the C script by sending an end message",
+    "id": "chunk_61"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "Server-Clients-CS-LAB2 README",
+    "text": "ThreadingMixin to create multiple threads that parallel compute the socket requests. Used this setup as it was the easiest in my opinion to do so.<br /> The server shutdown is done by the C script by sending an end message in the same way as with the computations.<br /> The requested SIGINT managing by the C script is done u",
+    "id": "chunk_62"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "sir_covid_spread_simulation",
+    "text": "GitHub project: sir_covid_spread_simulation. Primary language: Julia. Stars: 0, Forks: 0. Created: June 2025. Last updated: July 2025. URL: https://github.com/LoSpiri/sir_covid_spread_simulation",
+    "id": "chunk_63"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "website",
+    "text": "GitHub project: website. Description: Portfolio, blog and collection of thoughts. Primary language: HTML. Stars: 0, Forks: 0. Created: March 2026. Last updated: March 2026. URL: https://github.com/LoSpiri/website",
+    "id": "chunk_64"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "website README",
+    "text": "Lorenzo Spiri — Portfolio\n\nPersonal portfolio website built with plain HTML & CSS, designed for GitHub Pages.\n\nSetup\n\n1. Replace placeholder content in index.html with your real information\n2. Replace the portrait placeholder with a real image (see below)\n3. Push to a GitHub repository named <username>.github.io\n4. Enable GitHub Pages in the repository settings (deploy from main branch)\n\nAdding a portrait image\n\n1. Add your photo to an img/ folder (e.g. img/portrait.jpg)\n2. In index.html, replace the <div class=\"portrait-placeholder\"> element with:\n   html\n   <img src=\"img/portrait.jpg\" alt=\"Portrait of Lorenzo Spiri\" class=\"portrait-img\">\n   \n3. The .portrait-img class is already styled in css/style.css (see below). Add this if needed:\n   css\n   .portrait-img {\n     width: 100px;\n     height: 100px;\n     border-radius: 50%;\n     object-fit: cover;\n   }\n   \n\nStructure\n\n├── index.html       Main page\n├── css/\n│   └── style.css    All styles\n└── README.md",
+    "id": "chunk_65"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "xtream-ai-assignment-developer",
+    "text": "GitHub project: xtream-ai-assignment-developer. Description: Assignments for the interviews of our AI team. Primary language: Jupyter Notebook. Stars: 0, Forks: 0. Created: July 2024. Last updated: August 2024. URL: https://github.com/LoSpiri/xtream-ai-assignment-developer",
+    "id": "chunk_66"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "xtream-ai-assignment-developer README",
+    "text": "xtream AI Challenge - Software Engineer Ready Player 1? 🚀 Hey there! Congrats on crushing our first screening! 🎉 You're off to a fantastic start! Welcome to the next level of your journey to join the xtream AI squad. Here's your next mission. You will face 4 challenges. Don't stress about doing them all. Just dive into the ones that spark your interest or that you feel confident about. Let your talents shine bright! ✨ This assignment is designed to test your skills in engineering and software development. You will not need to design or develop models. Someone has already done that for you. You've got 7 days to show us your magic, starting now. No rush—work at your own pace. If you need more time, just let us know. We're here to help you succeed. 🤝 Your Mission [comment]: (Well, well, well. Nice to see you around! You found an Easter Egg! Put the picture of an iguana at the beginning of the \"How to Run\" section, just to let us know. And have fun with the challenges! 🦎) Think of this as a real-world project. Fork this repo and treat it like you're working on something big! When",
+    "id": "chunk_67"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "xtream-ai-assignment-developer README",
+    "text": "the beginning of the \"How to Run\" section, just to let us know. And have fun with the challenges! 🦎) Think of this as a real-world project. Fork this repo and treat it like you're working on something big! When the deadline hits, we'll be excited to check out your work. No need to tell us you're done – we'll know. 😎 Remember: At the end of this doc, there's a \"How to run\" section left blank just for you. Please fill it in with instructions on how to run your code. How We'll Evaluate Your Work We'll be looking at a bunch of things to see how awesome your work is, like: Your approach and method",
+    "id": "chunk_68"
+  },
+  {
+    "source": "github",
+    "page": "GitHub Projects",
+    "section": "yRCA-Log-Emitter",
+    "text": "GitHub project: yRCA-Log-Emitter. Primary language: Python. Stars: 0, Forks: 0. Created: February 2023. Last updated: February 2023. URL: https://github.com/LoSpiri/yRCA-Log-Emitter",
+    "id": "chunk_69"
+  }
+]
